@@ -1,0 +1,1 @@
+# tek-sayilarin-toplamini-bulan-program
